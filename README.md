@@ -1,2 +1,3 @@
 # Genomic tools for snow leopard conservation (developed in collaboration with Stanford University)
-Protocols and other resources for applying genomic tools 
+This repo contains protocols and other resources for applying genomic tools.
+For analysis code, also see: https://github.com/ksolari/SL_mPCR.git
